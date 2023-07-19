@@ -7,4 +7,4 @@
 
 ### It's nice to meet you!
 
-I am a computer science student with a focus in Java and Python programming.
+I am a computer science student with a focus on front-end development.
