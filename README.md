@@ -1,4 +1,4 @@
-### Howdy!! I'm Caleb :)
+### Hello!! I'm Caleb :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cozycable/) [![Codecademy Badge](https://img.shields.io/badge/Codecademy-codecademy?style=flat-square&logo=codecademy&logoColor=black&labelColor=cba6f7&color=cba6f7)](https://www.codecademy.com/profiles/CozyCable)
 
